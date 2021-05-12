@@ -1,0 +1,7 @@
+{
+  "name": "ClubMan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
